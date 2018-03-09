@@ -1,0 +1,4 @@
+## Opencv video problem in aws 
+sudo apt-get install ffmpeg
+sudo pip uninstall opencv-python
+sudo pip install opencv-python
